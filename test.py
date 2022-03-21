@@ -3,4 +3,5 @@
 # -*- coding:utf-8 -*-
 
 """
-print('test git vcs')
+print('test git command')
+
