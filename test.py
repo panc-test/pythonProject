@@ -5,5 +5,3 @@
 """
 print('test git command')
 
-print('20220322')
-
